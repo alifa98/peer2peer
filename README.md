@@ -1,3 +1,5 @@
 # P2P File sharing
 
-Sharing files on a LAN.
+Nodes can exchange the list of known neighbors with a particular protocol and create a network of nodes.
+Also, nodes can send requested files to the other nodes.
+
